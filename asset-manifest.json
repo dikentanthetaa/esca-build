@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f900b70c.css",
+    "main.js": "/static/js/main.9919ef70.js",
+    "static/js/787.2608f77e.chunk.js": "/static/js/787.2608f77e.chunk.js",
+    "static/media/EscaCommunity.svg": "/static/media/EscaCommunity.b049af69a54cc10d85ea200d13dd73b0.svg",
+    "static/media/medical-professional.svg": "/static/media/medical-professional.d0b1545879fea0dc6a746286692a872c.svg",
+    "static/media/Cooking.svg": "/static/media/Cooking.aaf07e3382a3f579337dbab9de206d89.svg",
+    "static/media/cookesMan.svg": "/static/media/cookesMan.67a60be1d04dbce877a86ebee9c323da.svg",
+    "static/media/doctor.svg": "/static/media/doctor.629a748dde806d4221a71a4b2cd8fb3e.svg",
+    "static/media/TeamCall.svg": "/static/media/TeamCall.89e9fee77ad46d29a76c82f79bcf9382.svg",
+    "static/media/uimg.svg": "/static/media/uimg.6df1a210a7be201321d88cb55c31dd8e.svg",
+    "static/media/ReceivePersonalized.svg": "/static/media/ReceivePersonalized.22a858f67fd00081fc59eb95e42a2b5f.svg",
+    "static/media/Amar.svg": "/static/media/Amar.e23b621c28bd699214be58cce65c8839.svg",
+    "static/media/Nisha.svg": "/static/media/Nisha.d9c4f2ebc06fa89bd9e59819f7fd468a.svg",
+    "static/media/Disha.svg": "/static/media/Disha.2fb399cbf7950a6c6d0051af4724e659.svg",
+    "static/media/HradImg.svg": "/static/media/HradImg.66b4fefc71668014f06546a2620768a1.svg",
+    "static/media/Eina02-Regular.ttf": "/static/media/Eina02-Regular.2e682693e13b16cacbf5.ttf",
+    "static/media/EscaLogo.svg": "/static/media/EscaLogo.cb943b417e85cfed5b0cd842812551b7.svg",
+    "index.html": "/index.html",
+    "static/media/bground.svg": "/static/media/bground.e7e78e3edca558836a96.svg",
+    "static/media/Aerow.svg": "/static/media/Aerow.847e890dd2e514ed5393f3cc31c1ceee.svg",
+    "main.f900b70c.css.map": "/static/css/main.f900b70c.css.map",
+    "main.9919ef70.js.map": "/static/js/main.9919ef70.js.map",
+    "787.2608f77e.chunk.js.map": "/static/js/787.2608f77e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f900b70c.css",
+    "static/js/main.9919ef70.js"
+  ]
+}
