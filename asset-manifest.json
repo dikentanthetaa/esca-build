@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.25cc5842.css",
-    "main.js": "/static/js/main.a97ec3f7.js",
+    "main.css": "/static/css/main.f4771fc8.css",
+    "main.js": "/static/js/main.71b30844.js",
     "static/js/787.2608f77e.chunk.js": "/static/js/787.2608f77e.chunk.js",
     "static/media/cookLady.svg": "/static/media/cookLady.80b2e66b6b7ec46f680563d6545c707b.svg",
     "static/media/popopImages.png": "/static/media/popopImages.1385e464dad8a42e9f96.png",
@@ -12,31 +12,33 @@
     "static/media/medical-professional.svg": "/static/media/medical-professional.0ed47a1bb5723abdc7fbb0a74eddd04b.svg",
     "static/media/Cooking-Mobile.svg": "/static/media/Cooking-Mobile.6a721d679f49efefec7c99d6261f1912.svg",
     "static/media/Amar-Mobile.svg": "/static/media/Amar-Mobile.603d6f369c7062b778fa57a5e354e542.svg",
-    "static/media/Amar.svg": "/static/media/Amar.6f27f9e78371c710863437547465d7a4.svg",
+    "static/media/Amar.svg": "/static/media/Amar.f505a01545dd7155e2ade40702d88459.svg",
     "static/media/NIsha-Mobile.svg": "/static/media/NIsha-Mobile.c9dfb803c984f11c21555bd52a0f8635.svg",
-    "static/media/Nisha.svg": "/static/media/Nisha.961a0eddb5c3ea1905fe661d40203eba.svg",
+    "static/media/Nisha.svg": "/static/media/Nisha.75e71b022aeb2b2012b37885003f4fbe.svg",
     "static/media/Disha-Mobile.svg": "/static/media/Disha-Mobile.8a378bbe7db81dde476dcd91f64169b5.svg",
-    "static/media/Disha.svg": "/static/media/Disha.40d1bf42ae265b8d6ba086019a529d9e.svg",
+    "static/media/Disha.svg": "/static/media/Disha.733d35a45e68cd37fd5824c716cb59d0.svg",
     "static/media/MittingRoomMobile.svg": "/static/media/MittingRoomMobile.417d21fcdac73adf216107f389b5b04f.svg",
     "static/media/TeamCall.svg": "/static/media/TeamCall.36d07edb622a4b685d3f7541908a40d7.svg",
+    "static/media/flags@2x.png": "/static/media/flags@2x.1ff49fd4eddddb2bde9f.png",
     "static/media/Eina02-Regular.ttf": "/static/media/Eina02-Regular.2e682693e13b16cacbf5.ttf",
     "static/media/Eina02-SemiBold.ttf": "/static/media/Eina02-SemiBold.c5f9b8e3078f4b223a57.ttf",
     "static/media/Eina02-Bold.ttf": "/static/media/Eina02-Bold.f8011405f1258216b0b7.ttf",
+    "static/media/flags.png": "/static/media/flags.3f9d4c2eaac6057ce601.png",
     "static/media/headIMg.svg": "/static/media/headIMg.f6a69c259238b4b1f4312149fb2701e3.svg",
     "static/media/lipidology-mobile.svg": "/static/media/lipidology-mobile.563eb21e45c06589054132c301798ab1.svg",
-    "static/media/lipidology.svg": "/static/media/lipidology.f7c7d9b07c20998bb3ad00e270d8c399.svg",
+    "static/media/lipidology.svg": "/static/media/lipidology.8cea6075a917140600b12597250ff9ee.svg",
     "static/media/Rhode-MediumNormal.otf": "/static/media/Rhode-MediumNormal.9b8c5701162e2f477ddb.otf",
     "static/media/NewLogo.svg": "/static/media/NewLogo.81975fdd1136d2440992bf3c375cd8ce.svg",
     "static/media/escaLogoWhite.svg": "/static/media/escaLogoWhite.8c736c64f68920224d18f8339c3febc8.svg",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.85545377821649f8aacacfb443de7eb7.svg",
     "static/media/Aerow.svg": "/static/media/Aerow.9432d0164a9e1d58ef6b30ba56da7530.svg",
-    "main.25cc5842.css.map": "/static/css/main.25cc5842.css.map",
-    "main.a97ec3f7.js.map": "/static/js/main.a97ec3f7.js.map",
+    "main.f4771fc8.css.map": "/static/css/main.f4771fc8.css.map",
+    "main.71b30844.js.map": "/static/js/main.71b30844.js.map",
     "787.2608f77e.chunk.js.map": "/static/js/787.2608f77e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25cc5842.css",
-    "static/js/main.a97ec3f7.js"
+    "static/css/main.f4771fc8.css",
+    "static/js/main.71b30844.js"
   ]
 }
