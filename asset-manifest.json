@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca0c5709.css",
-    "main.js": "/static/js/main.281e4ad0.js",
+    "main.css": "/static/css/main.8f0c3cda.css",
+    "main.js": "/static/js/main.4008e4fa.js",
     "static/js/787.2608f77e.chunk.js": "/static/js/787.2608f77e.chunk.js",
     "static/media/cookLady.svg": "/static/media/cookLady.80b2e66b6b7ec46f680563d6545c707b.svg",
+    "static/media/TakeVagitableMobile.svg": "/static/media/TakeVagitableMobile.0d57ce1727c6f069b071f777e21e2610.svg",
     "static/media/hysicianCulinary.svg": "/static/media/hysicianCulinary.be62ffa6491b982ef7ee7df5a80eb8bd.svg",
+    "static/media/EatFruitMobile.svg": "/static/media/EatFruitMobile.5d50007a289693c6e7cae74652486003.svg",
     "static/media/EatFruitGirl.svg": "/static/media/EatFruitGirl.3e478d7a3763a28df0c5179a35f5a0b3.svg",
+    "static/media/CommunicateGirlMobile.svg": "/static/media/CommunicateGirlMobile.d56b257cbc64f5092e9f69c2a41229e2.svg",
     "static/media/AI-Esca.svg": "/static/media/AI-Esca.998036f931eeabe0ca2567024bad2302.svg",
     "static/media/popopImages.png": "/static/media/popopImages.1385e464dad8a42e9f96.png",
     "static/media/BlackWomanMobile.svg": "/static/media/BlackWomanMobile.70cc17b96d1e4a19fe05d919b84d80c5.svg",
@@ -35,12 +38,12 @@
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.85545377821649f8aacacfb443de7eb7.svg",
     "static/media/Aerow.svg": "/static/media/Aerow.9432d0164a9e1d58ef6b30ba56da7530.svg",
-    "main.ca0c5709.css.map": "/static/css/main.ca0c5709.css.map",
-    "main.281e4ad0.js.map": "/static/js/main.281e4ad0.js.map",
+    "main.8f0c3cda.css.map": "/static/css/main.8f0c3cda.css.map",
+    "main.4008e4fa.js.map": "/static/js/main.4008e4fa.js.map",
     "787.2608f77e.chunk.js.map": "/static/js/787.2608f77e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca0c5709.css",
-    "static/js/main.281e4ad0.js"
+    "static/css/main.8f0c3cda.css",
+    "static/js/main.4008e4fa.js"
   ]
 }
